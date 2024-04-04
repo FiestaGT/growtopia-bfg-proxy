@@ -1,0 +1,6 @@
+{
+    "ip": "127.0.0.1", //local host
+    "bfg_world": "10KFSAVEDPO",
+    "discord_webhook": "WEBHOOK", //optional, to check bfg status, block left,seed left,gems in world (almost like an advanced Growscan)
+    "owners": [you_discord_id]
+}
